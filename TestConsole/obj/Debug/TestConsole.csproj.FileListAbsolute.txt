@@ -1,0 +1,6 @@
+F:\jitu\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+F:\jitu\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+F:\jitu\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+F:\jitu\TestConsole\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+F:\jitu\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+F:\jitu\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
