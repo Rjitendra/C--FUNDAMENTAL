@@ -4,3 +4,9 @@ F:\jitu\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
 F:\jitu\TestConsole\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
 F:\jitu\TestConsole\TestConsole\obj\Debug\TestConsole.exe
 F:\jitu\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
+F:\jitu\TestConsole\C--FUNDAMENTAL\TestConsole\bin\Debug\TestConsole.exe.config
+F:\jitu\TestConsole\C--FUNDAMENTAL\TestConsole\obj\Debug\TestConsole.exe
+F:\jitu\TestConsole\C--FUNDAMENTAL\TestConsole\bin\Debug\TestConsole.exe
+F:\jitu\TestConsole\C--FUNDAMENTAL\TestConsole\bin\Debug\TestConsole.pdb
+F:\jitu\TestConsole\C--FUNDAMENTAL\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+F:\jitu\TestConsole\C--FUNDAMENTAL\TestConsole\obj\Debug\TestConsole.pdb
