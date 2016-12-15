@@ -21,7 +21,6 @@ namespace TestConsole
             char[] array2 = str2.ToCharArray();
             string[] array3 = new string[0];
             ArrayList list = new ArrayList();
-            var listOfStrings = new List<string>();
             StringBuilder sbr = new StringBuilder();
             for (int i = 0; i < array1.Length; i++)
             {

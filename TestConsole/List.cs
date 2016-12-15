@@ -19,7 +19,19 @@ namespace TestConsole
 	    "yangtze", // River 3.
 	    "mississippi",
 	    "yellow"});
-        
+            foreach (string river in result)
+            {
+                Console.WriteLine(river);
+            }
+            List<string> result1 = new List<string>();
+
+            result1.Add("jitu");
+            result1.Add("jitu");
+            result1.Add("jitu");
+            foreach (string river in result1)
+            {
+                Console.WriteLine(river);
+            }
         
         }
 
